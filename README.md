@@ -12,8 +12,8 @@ This project demonstrates how deep learning techniques can be applied to **Natur
 
 * Python 
 * Pytorch
-* NumPy
-* Matplotlib
+* Pandas
+* scikit-Learn
 * Natural Language Processing (NLP) techniques
 * Recurrent Neural Network (RNN)
 * IMDB Movie Review Dataset
