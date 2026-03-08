@@ -11,7 +11,7 @@ This project demonstrates how deep learning techniques can be applied to **Natur
 ## 2. Tools / Technologies Used
 
 * Python 
-* TensorFlow / Keras
+* Pytorch
 * NumPy
 * Matplotlib
 * Natural Language Processing (NLP) techniques
